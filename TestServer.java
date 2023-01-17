@@ -10,7 +10,7 @@ public class TestServer implements Runnable
     static final String METHOD_NOT_SUPPORTED = "";
 
     //part to listen connection
-    static final int PORT = 5167;
+    static final int PORT = //portnumber;
 
     //verbase node
     static final boolean verbase = true;
