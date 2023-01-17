@@ -5,7 +5,7 @@ public class openSocket_1
 {
     public static void main(String[] args) throws IOException
 	{
-		int port = 5167;
+		int port = //portnumber;
 		ServerSocket serverSocket = new ServerSocket(port);
 		System.err.println("Server is running on port: "+port);
 		while(true)
